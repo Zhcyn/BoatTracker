@@ -1,0 +1,2 @@
+# BoatTracker
+An application that is under development to record their own navigation information. Users add their own navigation routes, their own fuel consumption, and the maintenance of their ships, etc. The current project is still under development, and some functions are still under development. The current stage of testing adds functions such as vessel information and sailing routes. If you encounter problems in the development, please contact me
